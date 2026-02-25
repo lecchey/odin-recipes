@@ -1,18 +1,18 @@
 .recipe-link{
-    padding: 0px;
-    margin:20px;
-    width:300px;
+    padding: 1vw;
+    margin: 2vw;
+    width:50vw;
     text-align:center;
 }
 .title{
     color: #65965a;
     background-color:#0b240f;
-    width: 350px;
-    height: 50px;
-    padding: 10px;
-    border: 2px black;
-    margin: 20px;
-    font-size: 50px;
+    width: 50vw;
+    height: 7vw;
+    padding: 2vw;
+    border: 1vw black;
+    margin: 4vw;
+    font-size: 6vw;
     text-align: center;
     
 }
@@ -22,11 +22,11 @@ body{
     text-align: left;
     list-style-position: inside; 
     font-family:fantasy;
-    font-size: 40px;
+    font-size: 5vw;
 }
 
 #thnks{
-    font-size: 25px;
+    font-size: 3vw;
 }
 
 #honey{
