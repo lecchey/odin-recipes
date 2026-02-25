@@ -1,7 +1,3 @@
-.recipe-link{
-   
-}
-
 .title{
     color: #65965a;
     background-color:#0b240f;
@@ -24,4 +20,10 @@ body{
 
 #thnks{
     font-size: 25px;
+}
+
+#honey{
+    background-color: #e0c451;
+    padding: 0px;
+    margin: 10px;
 }
