@@ -1,0 +1,27 @@
+.recipe-link{
+   
+}
+
+.title{
+    color: #65965a;
+    background-color:#0b240f;
+    width: 350px;
+    height: 50px;
+    padding: 10px;
+    border: 2px black;
+    margin: 20px;
+    font-size: 50px;
+    
+}
+
+body{
+    background-color: #c4c0a7;
+    text-align: left;
+    list-style-position: inside; 
+    font-family:fantasy;
+    font-size: 40px;
+}
+
+#thnks{
+    font-size: 25px;
+}
