@@ -1,3 +1,9 @@
+.recipe-link{
+    padding: 0px;
+    margin:20px;
+    width:300px;
+    text-align:center;
+}
 .title{
     color: #65965a;
     background-color:#0b240f;
@@ -7,6 +13,7 @@
     border: 2px black;
     margin: 20px;
     font-size: 50px;
+    text-align: center;
     
 }
 
@@ -24,6 +31,12 @@ body{
 
 #honey{
     background-color: #e0c451;
-    padding: 0px;
-    margin: 10px;
+}
+
+#lembas{
+    background-color:#417a15;
+}
+
+#fig{
+    background-color:#5e496e;
 }
