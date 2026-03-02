@@ -1,0 +1,8 @@
+.title-index {
+    display: block;
+    padding: 16px;
+    border: 8px dashed darkolivegreen;
+    width: fit-content;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+}
