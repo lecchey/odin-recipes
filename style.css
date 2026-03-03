@@ -8,37 +8,41 @@
     width: fit-content;
     background-color: blanchedalmond;
     margin: 0 auto;
+    margin-bottom: 20PX;
 }
 .button-one {
   display: inline-block;
   padding: 5px;
-  border: 2px solid rosybrown;
+  border: none;
   background-color: palegoldenrod;
   font-size: 18px;
   text-decoration: none;
   color: black;  
-  margin: 10px;  
+  
+  
 }
 .button-two {
   display: inline-block;
   padding: 5px;
-  border: 2px solid rosybrown;
+  border: none;
   background-color: palegoldenrod;
   font-size: 18px;
   text-decoration: none;
   color: black;  
-  margin: 10px;  
+  
 }
 .button-three {
   display: inline-block;
   padding: 5px;
-  border: 2px solid rosybrown;
+  border: none;
   background-color: palegoldenrod;
   font-size: 18px;
   text-decoration: none;
   color: black;    
-  margin: 10px;
+  
 }
-div {
+div, button {
     font-size: 18px;
+    text-align: center;
+    margin: 10px
 }
