@@ -34,7 +34,7 @@
      color: black;
   
 }
-div, button {
+button {
     font-size: 18px;
     text-align: center;
     margin: 10px
@@ -49,5 +49,6 @@ div, button {
     margin-bottom: 20PX;
 }
 .hc-img {
-    align-items: center;
+    display: block;
+    margin: 0 auto;
 }
