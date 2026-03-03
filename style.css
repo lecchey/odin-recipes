@@ -9,3 +9,36 @@
     background-color: blanchedalmond;
     margin: 0 auto;
 }
+.button-one {
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid rosybrown;
+  background-color: palegoldenrod;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;  
+  margin: 10px;  
+}
+.button-two {
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid rosybrown;
+  background-color: palegoldenrod;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;  
+  margin: 10px;  
+}
+.button-three {
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid rosybrown;
+  background-color: palegoldenrod;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;    
+  margin: 10px;
+}
+div {
+    font-size: 18px;
+}
