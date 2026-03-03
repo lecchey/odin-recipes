@@ -11,34 +11,27 @@
     margin-bottom: 20PX;
 }
 .button-one {
-  display: inline-block;
-  padding: 5px;
-  border: none;
-  background-color: palegoldenrod;
-  font-size: 18px;
-  text-decoration: none;
-  color: black;  
-  
+    display: inline-block;
+    padding: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;  
   
 }
 .button-two {
-  display: inline-block;
-  padding: 5px;
-  border: none;
-  background-color: palegoldenrod;
-  font-size: 18px;
-  text-decoration: none;
-  color: black;  
+    display: inline-block;
+    padding: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;  
   
 }
 .button-three {
-  display: inline-block;
-  padding: 5px;
-  border: none;
-  background-color: palegoldenrod;
-  font-size: 18px;
-  text-decoration: none;
-  color: black;    
+     display: inline-block;
+     padding: 5px; 
+     font-size: 18px;
+     text-decoration: none;
+     color: black;
   
 }
 div, button {
