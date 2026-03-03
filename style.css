@@ -39,3 +39,15 @@ div, button {
     text-align: center;
     margin: 10px
 }
+.title-bhcakes {
+    display: block;
+    padding: 16px;
+    border: 8px solid darkolivegreen;
+    width: fit-content;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    margin-bottom: 20PX;
+}
+.hc-img {
+    align-items: center;
+}
